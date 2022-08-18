@@ -1,13 +1,7 @@
-# PracticingMyGit (commit 1)
+# PracticingMyGit 
 
-I am on my way to becoming a computer wizard. I'm up-skilling and on track. (commit 2)
-
-I am a software engineer. Probably a lvl 4. (commit 3) 
-
-Another one (commit 4)
-
-FIVE (commit 5)
-
-SIX (commit 6)
-
-SEVEN (commit 7)
+I believe in myself that I will be a successful and 
+competent programmer :^) I am visualizing myself getting 
+things done and solving problems. Each task I complete is like me 
+slaying a monster in RuneScape with my mage skills. I 
+will be paid for my computer wizardry and will make this my trade in life.  
